@@ -1,0 +1,3 @@
+[submodule "project/Plugins/ObjectExtensions"]
+	path = project/Plugins/ObjectExtensions
+	url = https://github.com/Wolltoffel/Unreal-Plugins-ObjectExtensions
