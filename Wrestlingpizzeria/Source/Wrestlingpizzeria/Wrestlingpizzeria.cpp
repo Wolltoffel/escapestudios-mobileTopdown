@@ -3,4 +3,4 @@
 #include "project.h"
 #include "Modules/ModuleManager.h"
 
-IMPLEMENT_PRIMARY_GAME_MODULE( FDefaultGameModuleImpl, project, "project" );
+IMPLEMENT_PRIMARY_GAME_MODULE( FDefaultGameModuleImpl, project, "Wrestlingpizzeria" );

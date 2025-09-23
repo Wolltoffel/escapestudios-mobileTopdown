@@ -5,7 +5,7 @@
 	"Description": "",
 	"Modules": [
 		{
-			"Name": "project",
+			"Name": "Wrestlingpizzeria",
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
 		}
