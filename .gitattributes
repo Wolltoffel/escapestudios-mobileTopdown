@@ -37,3 +37,4 @@
 *.upk filter=lfs diff=lfs merge=lfs -text
 *.udk filter=lfs diff=lfs merge=lfs -text
 *.ssa filter=lfs diff=lfs merge=lfs -text
+*.pptx filter=lfs diff=lfs merge=lfs -text
