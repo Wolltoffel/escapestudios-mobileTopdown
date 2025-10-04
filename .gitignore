@@ -109,6 +109,7 @@ Wrestlingpizzeria/Build/Windows/FileOpenOrder/EditorOpenOrder.log
 *.blend1
 
 #Substance Painter Backups
-.autosave/
+**/.autosave/
+
 
 ~$Artbible.pptx
