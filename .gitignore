@@ -25,7 +25,7 @@
 *.pch
 
 # Don't ignore .lib folder
-!/ShawdowStrike/Plugins/DLSS/Source/ThirdParty/NGX/Lib/x64
+!/Wrestlingpizzeria/Plugins/DLSS/Source/ThirdParty/NGX/Lib/x64
 
 # Fortran module files
 *.mod
@@ -107,5 +107,8 @@ Wrestlingpizzeria/Build/Windows/FileOpenOrder/EditorOpenOrder.log
 
 #Blender Backups
 *.blend1
+
+#Substance Painter Backups
+.autosave/
 
 ~$Artbible.pptx
